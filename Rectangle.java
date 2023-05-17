@@ -6,7 +6,11 @@ public class Rectangle extends Shape{
 	
 	void area()
 	{
+
 		System.out.println("Added new line");
+
+		System.out.println("Hello World!");
+
 		System.out.println("The area of Rectangle of Length "+length+ " and breadth "+breadth+" is "+length*breadth);
 	}
 
